@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme applied before Compose takes over. Uses a Material 3 theme with
+         no action bar so the app draws edge-to-edge for that buttery feel. -->
+    <style name="Theme.ButterDroid" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
